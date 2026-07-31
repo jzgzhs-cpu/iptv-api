@@ -1,9 +1,7 @@
 🕘️更新时间,#genre#
-2026-07-29 16:23:18,https://live.chinacert.cftest5.cn/cnmg/live/641886683$订阅源
+2026-07-31 16:36:47,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$订阅源
 
 📺央视频道,#genre#
-CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886683$订阅源
-CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886683$订阅源
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$订阅源
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$订阅源
 
